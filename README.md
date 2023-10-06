@@ -300,3 +300,6 @@ The `Social` class represents social contacts associated with an estate.
     }
 }
 ```
+
+##### Copyright
+© 2023 Lukas Mateffy
