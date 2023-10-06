@@ -1,5 +1,3 @@
-# SCHEMA.immo
-
 `schema.immo` is an experimental, modern data standard for the real estate sector.
 
 This documentation describes the data types used in the `schema.immo` data standard.
