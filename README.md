@@ -22,7 +22,7 @@ Existing standards:
 
 While developing new standards due to other standards being too limited / not unified can lead to there just being another standard, we believe this situation to be a bit different.
 
-![](https://imgs.xkcd.com/comics/standards_2x.png)
+![© XKCD, "Standards"](https://imgs.xkcd.com/comics/standards_2x.png)
 
 We're developing this standard as we ([domos](https://domos.de)) have an acute use case for such a thing to exist. We'd develop this anyway, as our software is designed to be sharing data with external systems (WordPress sites, for example).
 
