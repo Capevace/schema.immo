@@ -320,5 +320,26 @@ The `Social` class represents social contacts associated with an estate.
 }
 ```
 
+## Smallest possible `Estate`
+```json
+{
+    "id": "f9d7a798-0d9a-4dc7-b5a3-49ff68e43283",
+    "slug": "ludwig-meissner-strasse-91",
+    "name": "Lindenstraße",
+    "address": {
+        "street": "Lindenstraße",
+        "number": "30",
+        "postal_code": "23558",
+        "city": "Lübeck",
+        "country": "Deutschland",
+        "coordinates": {
+            "latitude": 53.86423545,
+            "longitude": 10.66994001
+        }
+    }
+}
+```
+
+
 ##### Copyright
 © 2023 Lukas Mateffy
