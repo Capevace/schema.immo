@@ -2,7 +2,16 @@
 
 `schema.immo` is an experimental, modern data standard for the real estate sector.
 
-This documentation describes the PHP data types used in the `schema.immo` data standard.
+This documentation describes the data types used in the `schema.immo` data standard.
+
+> `schema.immo` is currently in development and **NOT** licensed for public use. It will eventually be available
+> as an open and living data standard, most likely licensed under the MIT license. However, we want to discourage its use before the initial version is > finalized.
+>
+> It will also feature first-class library support for:
+> - TypeScript / JavaScript
+> - PHP
+> - Java
+
 
 ## Contact
 
