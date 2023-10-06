@@ -1,4 +1,4 @@
-# Schema.immo
+# SCHEMA.immo
 
 `schema.immo` is an experimental, modern data standard for the real estate sector.
 
