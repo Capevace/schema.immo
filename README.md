@@ -10,6 +10,25 @@ This documentation describes the data types used in the `schema.immo` data stand
 > - PHP
 > - Java
 
+# Motivation
+
+While there are multiple standards for real estate data, many haven't kept up with the times. Additionally, most of them are not open/free (as in speech), designed by committee (not usage) and are terribly documented. This has led to an industry that is not connected, with software that doesn't communicate with each other.
+
+Existing standards:
+- OpenImmo (not open)
+- tbc...
+
+## Another standard?
+
+While developing new standards due to other standards being too limited / not unified can lead to there just being another standard, we believe this situation to be a bit different.
+
+![](https://imgs.xkcd.com/comics/standards_2x.png)
+
+We're developing this standard as we ([domos](https://domos.de)) have an acute use case for such a thing to exist. We'd develop this anyway, as our software is designed to be sharing data with external systems (WordPress sites, for example).
+
+Most of the existing standards also lack good first-class software libraries in popular languages and don't have useful documentation either. In addition, our software libraries for `schema.immo` will include conversion layers to other data standards as well, so it could also be used as a transitory data layer.
+
+# The Standard
 
 ## Contact
 
